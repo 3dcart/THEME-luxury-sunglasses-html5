@@ -1130,6 +1130,11 @@ footer .col3 {
     font-size: 18px;
     color: #999;
 }
+
+.rewardsPointsBlock .item{
+    color: #999;
+}
+
 #viewCart .product-name-options a {color: #fff;}
 
 #divCart .row, #divCart .row:nth-child(2n) {background: rgba(255, 255, 255, 0.9); padding: 10px;}
